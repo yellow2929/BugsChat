@@ -27,6 +27,7 @@ linux服务端需要安装mysql数据库，具体安装方法自行搜索
 linux编译使用命令
 g++ main.cpp ClientManager.cpp -o test `mysql_config --cflags --libs`
 
+压缩包文件内是客户端exe文件+静态链接库，windows直接运行exe文件即可
 
 
 实现功能
