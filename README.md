@@ -11,6 +11,8 @@ ClientManager.h
 
 server.cpp
 
+change_encoding.sh
+
 
 windows客户端文件
 
